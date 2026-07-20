@@ -8,19 +8,7 @@ PhyTDOA-Net is a lightweight edge-oriented neural correction framework designed 
 
 Unlike end-to-end neural localization approaches, PhyTDOA-Net does not replace conventional positioning algorithms. Instead, it learns propagation-induced timing errors and provides adaptive corrections before classical TDOA solving.
 
-Wireless Measurement
-        |
-        ↓
-+----------------+
-| PhyTDOA-Net    |
-| Error Correction|
-+----------------+
-        |
-        ↓
-Traditional TDOA Solver
-        |
-        ↓
-Estimated Position
+
 
 
 *Motivation*
