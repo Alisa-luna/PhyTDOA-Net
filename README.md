@@ -98,14 +98,14 @@ https://zenodo.org/records/4739276
 
 *本项目方法在真实 LocaRDS 数据集上，相较传统 TDOA 定位方法：*
 
-对比项	中位提升	尾部 (90%) 提升
+对比项	                                中位提升	                尾部 (90%) 提升
 
-Our2D vs Chan 2D	84.2%	99.4%
+Our2D vs Chan 2D	                    84.2%	                 99.4%
 
-Our3D vs Taylor 3D	63.2%	46.6%
+Our3D vs Taylor 3D                     	63.2%	                 46.6%
 
-Our3D vs LM 3D	 21.6%	95.5%
+Our3D vs LM 3D	                        21.6%	                 95.5%
 
-Our3D vs Taylor 3D	64.1%	46.7%
+Our3D vs Taylor 3D	                    64.1%	                 46.7%
 
-Our3D vs LM 3D	12.3%	94.3%
+Our3D vs LM 3D	                        12.3%	                 94.3%
